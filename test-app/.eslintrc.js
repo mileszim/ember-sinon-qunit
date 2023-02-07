@@ -38,7 +38,7 @@ module.exports = {
         './testem.js',
         './blueprints/*/index.js',
         './config/**/*.js',
-        './tests/dummy/config/**/*.js',
+        './test-app/config/**/*.js',
       ],
       parserOptions: {
         sourceType: 'script',
